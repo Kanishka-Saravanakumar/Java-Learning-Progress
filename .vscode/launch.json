@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "string3",
+            "request": "launch",
+            "mainClass": "string3",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "string2",
+            "request": "launch",
+            "mainClass": "string2",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
