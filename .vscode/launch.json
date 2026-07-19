@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "cricket",
+            "request": "launch",
+            "mainClass": "cricket",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "eat",
+            "request": "launch",
+            "mainClass": "eat",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "passorfail3",
+            "request": "launch",
+            "mainClass": "passorfail3",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "passorfail2",
+            "request": "launch",
+            "mainClass": "passorfail2",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "passorfail",
+            "request": "launch",
+            "mainClass": "passorfail",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "h1",
+            "request": "launch",
+            "mainClass": "h1",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "Hi",
+            "request": "launch",
+            "mainClass": "Hi",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "HelloNew",
+            "request": "launch",
+            "mainClass": "HelloNew",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
             "name": "string3",
             "request": "launch",
             "mainClass": "string3",
