@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "trafficlight",
+            "request": "launch",
+            "mainClass": "trafficlight",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
             "name": "avg",
             "request": "launch",
             "mainClass": "avg",
