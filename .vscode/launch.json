@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "avg",
+            "request": "launch",
+            "mainClass": "avg",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "nestedif",
+            "request": "launch",
+            "mainClass": "nestedif",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "oddeven",
+            "request": "launch",
+            "mainClass": "oddeven",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "divisible",
+            "request": "launch",
+            "mainClass": "divisible",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
             "name": "cricket",
             "request": "launch",
             "mainClass": "cricket",
