@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "objadd",
+            "request": "launch",
+            "mainClass": "objadd",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
             "name": "phone",
             "request": "launch",
             "mainClass": "phone",
