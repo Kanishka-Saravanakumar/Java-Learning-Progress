@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "phone",
+            "request": "launch",
+            "mainClass": "phone",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "obj1",
+            "request": "launch",
+            "mainClass": "obj1",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "laptop",
+            "request": "launch",
+            "mainClass": "laptop",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "hotel",
+            "request": "launch",
+            "mainClass": "hotel",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "loopeg3",
+            "request": "launch",
+            "mainClass": "loopeg3",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "loopeg2",
+            "request": "launch",
+            "mainClass": "loopeg2",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "loopeg",
+            "request": "launch",
+            "mainClass": "loopeg",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "ternaryoperator",
+            "request": "launch",
+            "mainClass": "ternaryoperator",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
             "name": "trafficlight",
             "request": "launch",
             "mainClass": "trafficlight",
