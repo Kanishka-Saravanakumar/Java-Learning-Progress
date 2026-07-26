@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "parameter",
+            "request": "launch",
+            "mainClass": "parameter",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "np",
+            "request": "launch",
+            "mainClass": "np",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "method1",
+            "request": "launch",
+            "mainClass": "method1",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "method",
+            "request": "launch",
+            "mainClass": "method",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "purchase",
+            "request": "launch",
+            "mainClass": "purchase",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
+            "name": "garden",
+            "request": "launch",
+            "mainClass": "garden",
+            "projectName": "Java-Learning-Progress_eb50b993"
+        },
+        {
+            "type": "java",
             "name": "objadd",
             "request": "launch",
             "mainClass": "objadd",
